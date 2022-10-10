@@ -1,1 +1,2 @@
-# linux-projeto1-iac - test
+# Repositório para exercícios Curso DIO
+# linux-projeto1-iac
